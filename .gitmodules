@@ -1,0 +1,6 @@
+[submodule "stoix-front"]
+	path = stoix-front
+	url = git@github.com:anthoniusdev/stoix-front.git
+[submodule "stoix-api"]
+	path = stoix-api
+	url = git@github.com:anthoniusdev/stoix-api.git
